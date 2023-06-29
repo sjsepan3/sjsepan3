@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sjsepan3
 - 👀 I’m interested in linux, .net, c#, desktop gui/tui
-- 📫 How to reach me ... my projects are currently on https://gitlab.com/sjsepan
+- 📫 How to reach me ... my projects are currently on https://gitlab.com/sjsepan and https://codeberg.org/sjsepan
 
 
 <!---
